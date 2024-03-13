@@ -15,7 +15,7 @@ https://github.com/Isyuyu6
 后端实现，算法实现，程序架构设计，数据库设计
 顾芸
 2112190118
-https://github.com/gui
+https://github.com/Guiovo
 微信小程序，线框图绘制，详细设计模块功能
 
 程序功能描述
