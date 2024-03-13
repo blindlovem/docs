@@ -42,5 +42,7 @@ https://github.com/gui
 
 用户可以选择删除某些记录
 
+思维导图如下：：
+
 ![思维导图](https://github.com/blindlovem/blind_love/assets/119307642/1bf1af93-d307-4954-9846-b083db6e5e91)
 
